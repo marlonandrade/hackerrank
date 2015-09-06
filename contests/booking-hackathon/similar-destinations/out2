@@ -1,0 +1,10 @@
+paris,rome:architecture,food,monuments,museums,shopping
+amsterdam,madrid:architecture,museums,nightlife,shopping
+barcelona,madrid,paris,rome:architecture,food,museums,shopping
+berlin,istanbul,london,paris,rome:food,monuments,museums,shopping
+berlin,madrid:food,museums,nightlife,shopping
+london,new_york:food,museums,shopping,theatre
+amsterdam,barcelona,madrid,paris,rome:architecture,museums,shopping
+amsterdam,berlin,madrid:museums,nightlife,shopping
+barcelona,berlin,istanbul,london,madrid,new_york,paris,rome:food,museums,shopping
+amsterdam,barcelona,berlin,istanbul,london,madrid,new_york,paris,rome:museums,shopping
